@@ -1,0 +1,18 @@
+1. Diferencias entre Main y Main 2
+Las principales diferencias observadas radican en la altura y la eficiencia del camino hacia el nodo 110.
+
+En el Main (Ordenado):
+Al insertar los números en orden ascendente, cada nuevo elemento es mayor que el anterior y se coloca siempre
+a la derecha. Esto hace que el árbol crezca linealmente hacia abajo en una sola rama, comportándose como una
+lista. Por eso, la altura es máxima y el camino al 110 es larguísimo.
+
+En el Main 2 (Aleatorio):
+la probabilidad de que tras un número grande venga uno pequeño hace que el árbol se vea
+"obligado" a repartir los nodos entre las ramas izquierda y derecha. Esto rellena los niveles de forma más
+uniforme, reduciendo la altura drásticamente y acortando el camino hacia cualquier nodo.
+
+2. Ejecución repetida de los programas
+En el Main: Los resultados serán idénticos en cada ejecución.
+
+En el Main 2: Los resultados de altura y camino variarán en cada ejecución.
+Como la secuencia de inserción es aleatoria, la "forma" del árbol cambia cada vez.
