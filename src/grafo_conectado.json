@@ -1,0 +1,7 @@
+{
+  "tripletas": [
+    {"sujeto": "persona:A", "predicado": "conoce_a", "objeto": "persona:B"},
+    {"sujeto": "persona:B", "predicado": "conoce_a", "objeto": "persona:C"},
+    {"sujeto": "persona:C", "predicado": "vive_en", "objeto": "lugar:Madrid"}
+  ]
+}
