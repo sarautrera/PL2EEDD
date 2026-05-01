@@ -1,0 +1,40 @@
+{
+  "tipos": ["tipo", "persona", "premio", "lugar", ""],
+  "tripletas": [
+    {
+      "s": "persona:Albert Einstein",
+      "p": "premio:Nobel",
+      "o": "1921"
+    },
+    {
+      "s": "persona:Albert Einstein",
+      "p": "nace_en",
+      "o": "lugar:Uah"
+    },
+    {
+      "s": "persona:Nicolas Tesla",
+      "p": "nace_en",
+      "o": "lugar:Uah"
+    },
+    {
+      "s": "persona:Nicolas Tesla",
+      "p": "premio:Nobel",
+      "o": "1921"
+    },
+    {
+      "s": "persona:Marie Curie",
+      "p": "premio:Nobel",
+      "o": "1921"
+    },
+    {
+      "s": "persona:Marie Curie",
+      "p": "nace_en",
+      "o": "lugar:Ulm"
+    },
+    {
+      "s": "persona:Antonio",
+      "p": "nace_en",
+      "o": "lugar:Villarrubia de los Caballeros"
+    }
+  ]
+}

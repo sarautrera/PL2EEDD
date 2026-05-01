@@ -1,0 +1,8 @@
+{
+  "tripletas": [
+    { "s": "A", "p": "conoce", "o": "B" },
+    { "s": "B", "p": "conoce", "o": "C" },
+    { "s": "X", "p": "conoce", "o": "Y" },
+    { "s": "Y", "p": "conoce", "o": "Z" }
+  ]
+}
