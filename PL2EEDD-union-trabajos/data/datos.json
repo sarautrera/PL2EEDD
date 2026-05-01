@@ -1,0 +1,70 @@
+{
+  "tipos": [
+    "tipo",
+    "persona",
+    "premio",
+    "lugar"
+  ],
+  "tripletas": [
+    {
+      "s": "persona:Albert Einstein",
+      "p": "premio:Nobel",
+      "o": "1921"
+    },
+    {
+      "s": "persona:Albert Einstein",
+      "p": "nace_en",
+      "o": "lugar:Ulm"
+    },
+    {
+      "s": "persona:Max Planck",
+      "p": "premio:Nobel",
+      "o": "1918"
+    },
+    {
+      "s": "persona:Max Planck",
+      "p": "nace_en",
+      "o": "lugar:Kiel"
+    },
+    {
+      "s": "persona:Johannes Stark",
+      "p": "premio:Nobel",
+      "o": "1919"
+    },
+    {
+      "s": "persona:Johannes Stark",
+      "p": "nace_en",
+      "o": "lugar:Schickenhof"
+    },
+    {
+      "s": "persona:Marie Curie",
+      "p": "premio:Nobel",
+      "o": "1903"
+    },
+    {
+      "s": "persona:Marie Curie",
+      "p": "nace_en",
+      "o": "lugar:Varsovia"
+    },
+    {
+      "s": "lugar:Ulm",
+      "p": "esta_en",
+      "o": "pais:Alemania"
+    },
+    {
+      "s": "pais:Alemania",
+      "p": "tiene_lugar",
+      "o": "lugar:Ulm"
+    },
+    {
+      "s": "persona:Dieter Braun",
+      "p": "nace_en",
+      "o": "lugar:Ulm"
+    },
+    {
+      "s": "persona:Dieter Braun",
+      "p": "profesion",
+      "o": "Fisico"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "tripletas": [
+    { "s": "persona:Einstein", "p": "vive_en", "o": "lugar:Ulm" },
+    { "s": "lugar:Ulm", "p": "esta_en", "o": "pais:Alemania" },
+    { "s": "persona:Max_Planck", "p": "nace_en", "o": "lugar:Ulm" }
+  ]
+}
